@@ -23,7 +23,7 @@ Reorganized code for better readability and maintainability.
 Extracted common components such as the button into reusable components.
 Visual Enhancements:
 
-my code
+my code:
 
 import React, { useState } from 'react';
 import { NavigationContainer } from '@react-navigation/native';
